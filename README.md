@@ -31,7 +31,6 @@ Low light imaging and low light image enhancement have wild applications in our 
 
 :high_brightness: <font color='red'> **News!** </font>
 
-- Papers from **ICCV2023** have been updated!
 
 
 
@@ -198,6 +197,9 @@ Low light imaging and low light image enhancement have wild applications in our 
 | 2023 | PRICAI | Bootstrap diffusion model curve estimation for high resolution low-light image enhancement | [pdf](https://link.springer.com/chapter/10.1007/978-981-99-7025-4_6) |   BDCE    |
 | 2023 | Appl. Mach. Learn. | LoLi-IEA: low-light image enhancement algorithm | [pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12675/1267512/LoLi-IEA-low-light-image-enhancement-algorithm/10.1117/12.2677422.short#_=_) [code](https://github.com/xingyumex/LoLi-IEA) |   LoLi-IEA    |
 | 2024 | IEEE Sens. Lett. | Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light Image Enhancement | [pdf](https://ieeexplore.ieee.org/document/10478172/) [code](https://github.com/santoshpanda1995/LightweightGCN-Model) |       |
+| 2024 | IEEE TIP | AnlightenDiff: Anchoring Diffusion Probabilistic Model on Low Light Image Enhancement | [pdf](https://ieeexplore.ieee.org/document/10740586?source=authoralert) [code](https://github.com/allanchan339/AnlightenDiff) | AnlightenDiff    |
+| 2024 | IEEE TCE | Back Projection Generative Strategy for Low and Normal Light Image Pairs with Enhanced Statistical Fidelity and Diversity | [pdf](https://ieeexplore.ieee.org/document/10794693) [code](https://github.com/allanchan339/N2LDiff-BP) | N2LDiff-BP  |
+| 2025 | ICLR (Spotlight) | Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model | [pdf](https://arxiv.org/pdf/2311.11638) [code](https://github.com/ChunmingHe/Reti-Diff) |   Reti-Diff   |
 | 2025 | Digital Signal Process. | CDAN: Convolutional dense attention-guided network for low-light image enhancement | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1051200424004275) [code](https://github.com/SinaRaoufi/CDAN) |   CDAN    |
 
 
